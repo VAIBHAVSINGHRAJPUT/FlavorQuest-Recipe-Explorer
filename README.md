@@ -1,5 +1,5 @@
 
-# Recipe Blog - Using Node.js,Ejs and MongoDB
+# FlavorQuest-Recipe-Explorer
 
 ## Installation
 $ npm install
